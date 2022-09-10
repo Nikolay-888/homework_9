@@ -59,3 +59,11 @@
     left: 250px;
     top:0;
 }
+
+.item-sec-drop {
+    position: relative;   
+}
+
+.item-drop:hover .link-one {
+    background-color: blue;
+}
